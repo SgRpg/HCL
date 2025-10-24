@@ -1,3 +1,5 @@
 # HCL
 for lab work
-<img src="D:\images\Typora_images\3ff0bec3651392c273b5c309a264292f.jpg" alt="3ff0bec3651392c273b5c309a264292f" style="zoom:20%;" />
+<image src="https://github.com/user-attachments/assets/dd8c47c2-9635-4461-a4d7-b4315a322050" style="zoom:20%;">
+
+
